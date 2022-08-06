@@ -9,7 +9,7 @@ const Page = () => {
     "I have to play football",
     "I'm flying to America to see my brother",
     "I have to work late",
-    "Why nother with an excuse? Just don't show up"
+    "Why bother with an excuse? Just don't show up"
   ];
 
   const generateExcuse = () => {
