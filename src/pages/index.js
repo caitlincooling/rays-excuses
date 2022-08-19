@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.css';
 const picture = require("../assets/rayheader.png");
 
 const Page = () => {
@@ -21,7 +22,7 @@ const Page = () => {
 
   return (
     <>
-      <img className="picture" src={picture} alt="a legend" />
+      <img className="picture" src={picture} width="100%" alt="a legend" />
       <center>
       <div className="container">
       <h1>Rays Excuses</h1>
