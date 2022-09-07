@@ -17,6 +17,12 @@ code {
     monospace;
 }
 
+.wrapper {
+  margin: 10px;
+  text-align: center;
+  max-width: 95%;
+}
+
 .container {
   width: 600px;
   justify-content: center;
